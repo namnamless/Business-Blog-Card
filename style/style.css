@@ -29,8 +29,13 @@ main {
   display: flex;
   flex-direction: column;
   width: auto;
+  margin-bottom: 20px;
+}
+hr {
+  margin: 0;
 }
 footer {
+  margin-top: 20px;
   display: flex;
   flex-direction: row;
   width: 418px;
@@ -60,17 +65,44 @@ footer {
   position: absolute;
   bottom: -1px;
 }
-.lato-regular {
-  color: #4a5567;
+.imagen3 {
+  margin: 0 15px 20px 35px;
+  width: 30px;
+  border: 3px solid #f2f5f9;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+h2 {
+  color: #111729;
   font-family: "Lato", sans-serif;
   font-weight: 400;
   font-style: normal;
+  font-size: 13px;
+  margin: 0;
+}
+.lato-small {
+  color: #4a5567;
+  font-family: "Lato", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 13px;
+  margin: 0;
+}
+.lato-regular {
+  color: #4a5567;
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  font-style: normal;
   font-size: 16px;
+  margin: 0;
 }
 .poppins-regular {
   color: #111729;
   font-family: "Poppins", sans-serif;
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
   font-size: 24px;
 }
