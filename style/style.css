@@ -29,13 +29,13 @@ main {
   display: flex;
   flex-direction: column;
   width: auto;
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 hr {
   margin: 0;
 }
 footer {
-  margin-top: 20px;
+  margin-top: 25px;
   display: flex;
   flex-direction: row;
   width: 418px;
@@ -78,7 +78,7 @@ footer {
 h2 {
   color: #111729;
   font-family: "Lato", sans-serif;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   font-size: 16px;
   margin: 0;
@@ -86,7 +86,7 @@ h2 {
 .lato-small {
   color: #4a5567;
   font-family: "Lato", sans-serif;
-  font-weight: 600;
+  font-weight: 400;
   font-style: normal;
   font-size: 16px;
   margin: 0;
@@ -94,7 +94,7 @@ h2 {
 .lato-regular {
   color: #4a5567;
   font-family: "Lato", sans-serif;
-  font-weight: 500;
+  font-weight: 400;
   font-style: normal;
   font-size: 16px;
   margin: 0;
