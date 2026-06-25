@@ -9,6 +9,7 @@ html {
 body {
   background-color: #ffffff;
   width: 418px;
+  height: 530px;
   display: flex;
   justify-content: center;
   align-items: center;
