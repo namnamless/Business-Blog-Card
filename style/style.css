@@ -67,7 +67,7 @@ footer {
 }
 .imagen3 {
   margin: 0 15px 20px 35px;
-  width: 30px;
+  width: 40px;
   border: 3px solid #f2f5f9;
   border-radius: 50%;
   -webkit-border-radius: 50%;
@@ -80,7 +80,7 @@ h2 {
   font-family: "Lato", sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 13px;
+  font-size: 16px;
   margin: 0;
 }
 .lato-small {
@@ -88,7 +88,7 @@ h2 {
   font-family: "Lato", sans-serif;
   font-weight: 600;
   font-style: normal;
-  font-size: 13px;
+  font-size: 16px;
   margin: 0;
 }
 .lato-regular {
@@ -102,8 +102,8 @@ h2 {
 .poppins-regular {
   color: #111729;
   font-family: "Poppins", sans-serif;
-  font-weight: 500;
+  font-weight: 400;
   font-style: normal;
   font-size: 24px;
-  margin: 0;
+  margin: 0 0 20px 0;
 }
