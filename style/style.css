@@ -54,6 +54,8 @@ footer {
   margin: 0 35px 10px 35px;
 }
 .imagen1 {
+  width: auto;
+  height: auto;
   position: relative;
   border-radius: 1rem;
   -webkit-border-radius: 1rem;
@@ -62,6 +64,8 @@ footer {
   -o-border-radius: 1rem;
 }
 .imagen2 {
+  width: auto;
+  height: auto;
   position: absolute;
   bottom: -1px;
 }
